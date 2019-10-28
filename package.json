@@ -1,0 +1,18 @@
+{
+  "name": "kecskesd-package",
+  "version": "1.0.0",
+  "description": "My first NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "David Kecskes",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
