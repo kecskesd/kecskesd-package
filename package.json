@@ -1,6 +1,6 @@
 {
   "name": "kecskesd-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My first NPM package",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,9 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "lukas-package": "github:LukasAnda/lukas-package#df631569f07d96abdae4ff072529a60f29beace9",
+    "b-box": "^1.0.1"
   }
 }
