@@ -13,7 +13,7 @@
   "author": "David Kecskes",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "lukas-package": "github:LukasAnda/lukas-package#df631569f07d96abdae4ff072529a60f29beace9",
